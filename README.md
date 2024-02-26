@@ -6,6 +6,6 @@ Hey! I'm Esen👋
 
 Here is a link to my profile where you can find all the projects I am working on: https://www.linkedin.com/in/esenakman/
 
-Here is a link to my first ever website which features an informative landing page promoting my favourite design application; CANVA https://Users/sn/Desktop/ESEN%20%3B%20)/VSCODE%20DOCUMENTS/canvaproject.html
+Here is a link to my first ever website which features an informative landing page promoting my favourite design application; CANVA file//Users/sn/Desktop/ESEN%20%3B%20)/VSCODE%20DOCUMENTS/canvaproject.html
 
 I hope you enjoyed learning about my coding journey!
